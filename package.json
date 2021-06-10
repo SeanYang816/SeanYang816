@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe-game",
+  "version": "1.0.0",
+  "description": "this is the tic tac toe game following Dev Kyles tutorial video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanYang816/SeanYang816.git"
+  },
+  "author": "Sean Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanYang816/SeanYang816/issues"
+  },
+  "homepage": "https://github.com/SeanYang816/SeanYang816#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
